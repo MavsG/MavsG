@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**MavsG/MavsG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## eu sou a Maria Eduarda
 
-Here are some ideas to get you started:
+🎓 Formada em Técnico em Informática (SENAC) e atualmente cursando Análise e Desenvolvimento de Sistemas (UMC).
+💻 Tenho interesse em desenvolvimento de software, banco de dados e administração de sistemas de informação.
+🚀 Busco oportunidades como Jovem Aprendiz ou Estagiária em TI, para aplicar meus conhecimentos técnicos e evoluir na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias & Habilidades
+
+Linguagens: Java, Python, C#, JavaScript (jQuery)
+
+Banco de Dados: SQL Server
+
+Conhecimento em hardware, redes e sistemas de informação
+
+## 🌍 Idiomas
+
+Inglês (Avançado)
+
+Mandarim (Intermediário)
+
+Libras (Intermediário)
+
+## 📚 Atualmente aprendendo
+
+Aprimorando conhecimento em Java e C#
+
+Aprofundando o inglês técnico
+
+## 📫 Entre em contato: [ma.eduarda05@outlook.com] 
