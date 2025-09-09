@@ -8,9 +8,17 @@
 
 ## 🔧 Tecnologias & Habilidades
 
-Linguagens: Java, Python, C#, JavaScript (jQuery)
+## Linguagens:  
+Java 
 
-Banco de Dados: SQL Server
+Python 
+
+C#  
+
+JavaScript (jQuery)
+
+## Banco de Dados: 
+SQL Server
 
 Conhecimento em hardware, redes e sistemas de informação
 
