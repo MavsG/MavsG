@@ -18,9 +18,9 @@ Conhecimento em hardware, redes e sistemas de informação
 
 Inglês (Avançado)
 
-Mandarim (Intermediário)
+Mandarim (Básico)
 
-Libras (Intermediário)
+Libras (Básico)
 
 ## 📚 Atualmente aprendendo
 
