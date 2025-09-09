@@ -29,5 +29,5 @@ Aprimorando conhecimento em Java e C#
 Aprofundando o inglês técnico
 
 ## 📫 Entre em contato:
-[ma.eduarda05@outlook.com] 
+[Email](ma.eduarda05@outlook.com) 
 [Meu LinkedIn](https://www.linkedin.com/in/maria-eduarda-gomes-de-oliveira-445b70266)
