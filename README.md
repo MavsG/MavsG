@@ -4,21 +4,29 @@
 💻 Tenho interesse em desenvolvimento de software, banco de dados e administração de sistemas de informação.
 🚀 Busco oportunidades como Jovem Aprendiz ou Estagiária em TI, para aplicar meus conhecimentos técnicos e evoluir na área.
 
+## 📌 Projetos em destaque
+
+🔹 Sistema de Agenda de Estudos (Java + SQL)
+🔹 Sistema de Login com Banco de Dados
+🔹 Aplicativo de desktop integrado com um website (c# + windows form + Api + Html&CSS + javascript)
+
 ## 🔧 Tecnologias & Habilidades
 
-## Linguagens:  
-Java 
+💻 Linguagens
+- Java
+- Python
+- C#
+- JavaScript (jQuery)
 
-Python 
+🗄 Banco de Dados
+- SQL Server
 
-C#  
+⚙️ Outros conhecimentos
+- Hardware
+- Redes
+- Sistemas de informação
 
-JavaScript (jQuery)
-
-## Banco de Dados: 
-SQL Server
-
-Conhecimento em hardware, redes e sistemas de informação
+  
 
 ## 🌍 Idiomas
 
@@ -27,6 +35,7 @@ Inglês (Avançado)
 Mandarim (Básico)
 
 Libras (Básico)
+
 
 ## 📚 Atualmente aprendendo
 
