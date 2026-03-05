@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## eu sou a Maria Eduarda
+# 👋 Olá! Eu sou a Maria Eduarda
 
 🎓 Formada em Técnico em Informática (SENAC) e atualmente cursando Análise e Desenvolvimento de Sistemas (UMC).
 💻 Tenho interesse em desenvolvimento de software, banco de dados e administração de sistemas de informação.
