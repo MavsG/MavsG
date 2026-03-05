@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou a Maria Eduarda
-![gif aesthetic](https://i.pinimg.com/originals/57/76/f9/5776f9432046af782459fed1b16073f8.gif)
+
 
 🎓 Formada em Técnico em Informática (SENAC) e atualmente cursando Análise e Desenvolvimento de Sistemas (UMC).
 💻 Tenho interesse em desenvolvimento de software, banco de dados e administração de sistemas de informação.
@@ -49,3 +49,5 @@ Aprofundando o inglês técnico
 
 
 [Meu LinkedIn](https://www.linkedin.com/in/maria-eduarda-gomes-de-oliveira-445b70266)
+
+![gif aesthetic](https://i.pinimg.com/originals/57/76/f9/5776f9432046af782459fed1b16073f8.gif)
