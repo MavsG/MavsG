@@ -19,6 +19,7 @@
 🔹 Sistema de Agenda de Estudos (Java + SQL)  
 🔹 Sistema de Login com Banco de Dados  
 🔹 Aplicativo desktop integrado com website (C# + Windows Forms + API + HTML & CSS + JavaScript)
+link: https://mavsg.github.io/Projeto-Senac-AEA/index.html
 
 ---
 
