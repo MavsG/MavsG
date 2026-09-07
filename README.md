@@ -259,9 +259,6 @@ Sistema de autenticação conectado a banco de dados, desenvolvido para praticar
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MavsG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MavsG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
 
@@ -271,35 +268,6 @@ Sistema de autenticação conectado a banco de dados, desenvolvido para praticar
 
 ---
 
-# `08` // ACTIVITY MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MavsG&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# `09` // TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MavsG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
-# `10` // CONTRIBUTION PROTOCOL
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MavsG/MavsG/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
-
----
 
 # `11` // NETWORK
 
