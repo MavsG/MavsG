@@ -1,205 +1,348 @@
-# ✦ Maria Eduarda • MavsG
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right">
+<!--                         MAVSG // SYSTEM ONLINE                         -->
 
-### `console.log("Hello, world! 👋")`
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-🎓 **Técnica em Informática — SENAC**
-💻 **Análise e Desenvolvimento de Sistemas — UMC**
-🌎 São Paulo, Brasil
+<div align="center">
 
-Sou uma desenvolvedora em formação que gosta de transformar ideias em projetos reais, explorar novas tecnologias e entender como as coisas funcionam por trás da tela.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MAVSG&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=SYSTEMS%20DEVELOPER%20%7C%20CREATIVE%20TECH%20%7C%20DIGITAL%20EXPLORER&descAlignY=55&descSize=15&animation=fadeIn"/>
 
-Atualmente, meus maiores interesses estão em **desenvolvimento de software, bancos de dados e sistemas web**.
+<br>
 
-> `code` → `create` → `learn` → `repeat` ♻️
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+MAVSG_SYSTEM...;%3E+LOADING+DEVELOPER_PROFILE...;%3E+JAVA+%7C+C%23+%7C+PYTHON+%7C+JAVASCRIPT;%3E+DATABASES+%7C+APIs+%7C+WEB;%3E+SYSTEM+ONLINE+%E2%9C%93" alt="Typing Animation"/>
 
-<br clear="right"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff9d?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOCATION-S%C3%83O%20PAULO-7DF9FF?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-b967ff?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🧩 Sobre mim
+<div align="center">
 
-```java
-public class MariaEduarda {
-
-    String[] interests = {
-        "Software Development",
-        "Databases",
-        "Web Development",
-        "Information Systems"
-    };
-
-    String[] languages = {
-        "Java",
-        "C#",
-        "Python",
-        "JavaScript",
-        "SQL"
-    };
-
-    String currentGoal =
-        "Continuar evoluindo como desenvolvedora.";
-
-}
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                     MAVSG // CORE SYSTEM                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  STATUS       :: ONLINE                                     ║
+║  ROLE         :: SYSTEMS DEVELOPER                          ║
+║  ENVIRONMENT  :: JAVA / C# / PYTHON / WEB / SQL             ║
+║  MODE         :: LEARNING + BUILDING                        ║
+║  OBJECTIVE    :: CREATE • IMPROVE • REPEAT                  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-Além da programação, gosto de **design, tecnologia, games, cultura e criação de projetos**.
-Meu GitHub é onde junto um pouco dessas coisas e transformo aprendizado em código.
+</div>
+
+# `01` // ABOUT ME
+
+<table>
+<tr>
+<td width="55%">
+
+### 👾 Maria Eduarda
+
+I'm a **Systems Analysis and Development student** and **Technical Information Technology graduate**, interested in turning ideas into functional software.
+
+I enjoy working across different layers of a project, from **database structure and backend logic to web interfaces and APIs**.
+
+I'm constantly experimenting with new technologies and building projects to transform what I learn into something tangible.
+
+```text
+> education
+  ├── Technical IT @ SENAC
+  └── Systems Analysis & Development @ UMC
+
+> interests
+  ├── Software Development
+  ├── Databases
+  ├── Web Development
+  ├── APIs
+  └── Information Systems
+```
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MavsG&style=for-the-badge&color=7DF9FF&label=PROFILE+SIGNALS"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Projetos em destaque
+# `02` // TECH STACK
 
-### 🍜 Sabor & Clic
+<div align="center">
 
-Sistema web pensado para pequenos empreendedores da área de alimentação.
+### ⚡ CORE LANGUAGES
 
-**Foco:** estoque • pedidos • reservas • gestão
+<img src="https://skillicons.dev/icons?i=java,cs,python,js,html,css&theme=dark" />
 
-> Projeto em desenvolvimento.
+<br><br>
+
+### 🗄️ DATABASES
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+### 🌐 WEB & FRAMEWORKS
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-5382A1?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/API-7DF9FF?style=for-the-badge&logo=fastapi&logoColor=black"/>
+
+</div>
 
 ---
 
-### 🏫 Projeto SENAC AEA
+# `03` // TOOLS & ENVIRONMENT
 
-Aplicação desenvolvida durante o curso técnico, integrando **aplicativo desktop + website + banco de dados + API**.
+<div align="center">
 
-**Tecnologias:**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,unity,blender&theme=dark" />
 
-`C#` `Windows Forms` `API` `HTML` `CSS` `JavaScript` `SQL` `Cloudinary`
+<br><br>
 
-🌐 **[Ver projeto online](https://mavsg.github.io/Projeto-Senac-AEA/index.html)**
+<img src="https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scene_Builder-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+</div>
 
 ---
 
-### 📚 Agenda de Estudos
+# `04` // PROJECT DATABASE
 
-Sistema para organização de estudos desenvolvido utilizando Java e banco de dados.
+<div align="center">
 
-**Tecnologias:**
+<table>
+<tr>
+
+<td width="50%">
+
+<h3>🍜 Sabor & Clic</h3>
+
+Sistema pensado para pequenos empreendedores da área de alimentação.
+
+```text
+MODULES
+├── Orders
+├── Inventory
+├── Products
+├── Scheduling
+└── Database
+```
+
+`Web` `Backend` `SQL` `Business Logic`
+
+**STATUS :: IN DEVELOPMENT**
+
+</td>
+
+<td width="50%">
+
+<h3>🏫 SENAC AEA</h3>
+
+Aplicação integrando desktop, website, API e banco de dados.
+
+```text
+ARCHITECTURE
+├── Desktop App
+├── API
+├── Website
+├── Database
+└── Cloudinary
+```
+
+`C#` `HTML` `CSS` `JavaScript` `SQL`
+
+<a href="https://mavsg.github.io/Projeto-Senac-AEA/index.html">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-7DF9FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>📚 Study Agenda</h3>
+
+Sistema para organização de estudos desenvolvido para praticar integração entre aplicação e banco de dados.
 
 `Java` `SQL` `JDBC`
 
----
+</td>
 
-### 🔐 Sistema de Login
+<td width="50%">
 
-Sistema de autenticação integrado a banco de dados, desenvolvido para praticar conceitos de CRUD, conexão e validação de dados.
+<h3>🔐 Login System</h3>
 
-**Tecnologias:**
+Sistema de autenticação conectado a banco de dados, desenvolvido para praticar validação, CRUD e persistência.
 
 `Java` `SQL` `JDBC`
 
----
+</td>
 
-# 💻 Tech Stack
+</tr>
+</table>
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cs,python,js,html,css" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-`SQL Server` • `MySQL`
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,unity,blender,vscode,eclipse" />
-</p>
-
-`Bootstrap` • `jQuery` • `JDBC` • `Cloudinary` • `Windows Forms`
+</div>
 
 ---
 
-# 🌱 Currently learning
+# `05` // CURRENT MISSION
+
+<div align="center">
 
 ```text
-Java        ███████████████░░░
-C#          ████████████░░░░░░
-SQL         ████████████░░░░░░
-JavaScript  ██████████░░░░░░░░
-Python      ████████░░░░░░░░░░
+┌──────────────────────────────────────────────────────────────┐
+│                     CURRENT_OBJECTIVES                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  [████████████████░░░░]  JAVA                               │
+│  [██████████████░░░░░░]  C#                                 │
+│  [██████████████░░░░░░]  SQL / DATABASES                    │
+│  [████████████░░░░░░░░]  WEB DEVELOPMENT                    │
+│  [███████████░░░░░░░░░]  APIs                               │
+│                                                              │
+│  > improve_backend();                                       │
+│  > build_real_projects();                                   │
+│  > learn_new_technologies();                                │
+│  > expand_technical_english();                              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-📌 Aprofundando conhecimentos em **Java e C#**
-📌 Praticando **desenvolvimento web**
-📌 Evoluindo em **banco de dados e APIs**
-📌 Estudando **inglês técnico**
+</div>
 
 ---
 
-# 🌎 Languages
+# `06` // LANGUAGES
 
-🇧🇷 **Português** — Nativo
-🇺🇸 **Inglês** — Avançado
-🇨🇳 **Mandarim** — Básico
-🤟 **Libras** — Básico
+<div align="center">
 
----
+🇧🇷 **Portuguese** — Native
+🇺🇸 **English** — Advanced
+🇨🇳 **Mandarin** — Basic
+🤟 **Libras** — Basic
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MavsG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MavsG&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+# `07` // GITHUB ANALYTICS
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/MavsG/MavsG/output/github-contribution-grid-snake.svg" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MavsG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MavsG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
----
+<br><br>
 
-# 🎯 A little more about me
+<img src="https://streak-stats.demolab.com?user=MavsG&theme=tokyonight&hide_border=true"/>
 
-```text
-💻 Developer       → building & learning
-🎨 Creative        → design, drawing & visual projects
-🎮 Games           → player + game development enthusiast
-🌏 Languages       → English • Mandarin • Libras
-📚 Learning        → always something new
-☕ Debugging       → unfortunately part of the lifestyle
-```
+</div>
 
 ---
 
-# 📫 Let's connect!
+# `08` // ACTIVITY MATRIX
 
-<p align="left">
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MavsG&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# `09` // TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MavsG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+# `10` // CONTRIBUTION PROTOCOL
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MavsG/MavsG/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# `11` // NETWORK
+
+<div align="center">
 
 <a href="mailto:ma.eduarda05@outlook.com">
-<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/maria-eduarda-gomes-de-oliveira-445b70266">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://github.com/MavsG">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+<br>
 
-### `while(alive) { learn(); build(); repeat(); }`
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   "The best way to predict the future is to build it."      │
+│                                                              │
+│              > SYSTEM STATUS :: ONLINE_                     │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
 
-</p>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
+
+<!--
+████████████████████████████████████████████████████████████████████████
+                         MAVSG // END OF FILE
+████████████████████████████████████████████████████████████████████████
+-->
